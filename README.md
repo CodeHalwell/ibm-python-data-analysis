@@ -44,4 +44,38 @@ https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperS
 
 ## License
 
-© IBM Corporation 2020. All rights reserved.  
+© IBM Corporation 2020. All rights reserved.
+
+## Screenshots
+
+Below are the key outputs you should capture in the `images/` directory and reference here:
+
+- **Question 1 – Data Types**  
+  ![Question 1](images/images/Q1_Data_Types.png)
+
+- **Question 2 – Drop Columns**  
+  ![Question 2](images/Q2_Drop_Columns.png)
+
+- **Question 3 – Floor Value Counts**  
+  ![Question 3](images/Q3_Value_Counts.png)
+
+- **Question 4 – Waterfront Boxplot**  
+  ![Question 4](images/Q4_Boxplots.png)
+
+- **Question 5 – Sqft Above Regression**  
+  ![Question 5](images/Q5_RegPlot.png)
+
+- **Question 6 – Sqft Living Linear Model**  
+  ![Question 6](images/Q6_RSquared_SQFT.png)
+
+- **Question 7 – Multi-feature Regression**  
+  ![Question 7](images/Q7_Expanded_Features.png)
+
+- **Question 8 – Pipeline R² Score**  
+  ![Question 8](images/Q8_Pipeline.png)
+
+- **Question 9 – Ridge Regression**  
+  ![Question 9](images/Q9_Initial_Ridge.png)
+
+- **Question 10 – Polynomial Ridge Regression**  
+  ![Question 10](images/Q10_Polyfit_Ridge.png)
